@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+
+
+body {
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+
+#logo {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 60px;
+	text-align: center;
+}
+
+#intro  {
+	text-align:center;
+}
+p {
+	font-family: 'Kalam', cursive;
+	font-size: 20px;
+}
+
+h2 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 40px;
+	text-align: center;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+nav {
+	background-color: grey;
+	height: 50px;
+}
+
+nav ul {
+	height: 50px;
+	width: 450px;
+	margin: 0 auto;
+}
+
+nav ul li {
+    list-style-type: none;
+    width: 150px;
+    float: left;
+    font-family: 'Kalam', cursive;
+    text-align: center;
+}
+
+li a {
+	text-decoration: none;
+	line-height: 50px;
+	display: block;
+}
+
+li a:hover {
+	background-color: maroon;
+	color: white;
+}
+
+.photos {
+	text-align: center;
+}
+
+.videos {
+	text-align: center;
+}
+
+.bio {
+    font-size: 25px;
+}
+
+.about {
+	padding-left:100px;
+}
+
+.tryouts {
+	text-align: center;
+}
+
+em {
+	font-style:bold, underline;
+}
+
+.info {
+	text-align:center;
+}
+
